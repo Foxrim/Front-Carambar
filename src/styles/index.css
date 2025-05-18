@@ -25,6 +25,28 @@ body {
   --button-color: #38ace3;
 }
 
+button {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  letter-spacing: 0;
+  font-style: normal;
+  font-size: 1.5rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  letter-spacing: 0;
+  font-size: 1rem;
+  font-style: normal;
+  cursor: default;
+  user-select: none;
+}
+
 .montserrat {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
