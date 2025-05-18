@@ -23,7 +23,7 @@ export default function Quizz() {
   const getRandomJoke = async () => {
     setIsShow(false);
     const response = await fetch(
-      "http://localhost:3008/api/v1/blagues/random",
+      "https://back-carambar.onrender.com/api/v1/blagues/random",
       {
         credentials: "include",
       }
