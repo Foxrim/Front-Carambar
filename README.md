@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# Front-Carambar
-=======
-# React + TypeScript + Vite
+# CARAMBAR-BACK
 
+This project works with API. Check the documentation on back to see more about it.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -55,4 +53,13 @@ export default tseslint.config({
   },
 })
 ```
->>>>>>> 83893b4 ([feat] - first commit)
+## Documentation 
+
+You can check here if you want to see more about the API :
+https://app.swaggerhub.com/apis-docs/foxrim/carambar/1.0.0
+
+You can check here if you want to see the repo on back api project :
+https://github.com/Foxrim/Back-Carambar
+
+You can check here if you want to see the result on front project :
+Result : https://foxrim.github.io/Front-Carambar/
